@@ -14,7 +14,7 @@ app.use(express.static("public"));
 
 //API Key
 const API_URL = 'https://translate.yandex.net/api/v1.5/tr.json/translate';
-const API = 'trnsl.1.1.20210822T150253Z.94274afb27291791.8c0d9a7f700d32adf8ddf65d5aec14c378975701';
+const API = 'YOUR API';
 
 //Server
 app.get('/', function(req, res) {
