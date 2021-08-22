@@ -57,6 +57,6 @@ app.post('/', function(req, res) {
 });
 
 //Server Listen
-app.listen('80', () => {
-    console.log('Server started at port 80');
+app.listen('3000', () => {
+    console.log('Server started at port 3000');
 });
