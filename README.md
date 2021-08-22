@@ -6,6 +6,6 @@ Everytime user search for a word It will save the new translation in the databas
 
 So next time if someone search for the same word the script will search from Database instead of requesting Data from API
 
-##Demo
+## Demo
 
 https://shiv-lang.herokuapp.com/
